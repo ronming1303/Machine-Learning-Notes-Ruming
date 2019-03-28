@@ -5,4 +5,6 @@
 #2.在logistic regression中，最终的测试因UTF-8 code未完成。
 #3.支持向量机（support vector)数学原理未能完全理解，注释未完成。
 #4.回归（regression）中，urllib在爬取google数据时出现超时问题，暂未找到解决方法。
-#5.树回归（regression tree)中，tkinter的使用存在问题，暂未找到解决方法
+#5.树回归（regression tree)中，tkinter的使用存在问题，暂未找到解决方法。
+#6.K均值聚类中，urllib出现问题导致无法测试，暂未找到解决方法。
+#7.前三章为无监督学习，目前未能理解算法原理，暂时未进行中文注释
